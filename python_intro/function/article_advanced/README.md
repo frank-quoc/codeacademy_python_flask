@@ -39,3 +39,5 @@ Second, print ```d``` subtracted from ```c```.
 Third, print the first number printed, multiplied by the second number printed.
 
 Finally, *return* the third number printed mod ```a```.
+
+## [Answer](answer.py)

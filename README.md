@@ -8,12 +8,12 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   - **[Introduction to Build Web Apps with Flask](python_intro/web_app_intro)**
     * [Learn Python: Syntax](python_intro/web_app_intro/lesson)
     * [Project: Create Purchasing Information and Receipts for Lovely Loveseats](python_intro/web_app_intro/project)
-  - **[Functions](python_intro/functions)**
+  - **[Functions](python_intro/function)**
     * [Introduction to Functions](python_intro/function/lesson)
     * [Project: Getting Ready for Physics Class](python_intro/function/project)
     * [Python Code Challenges: Functions](python_intro/function/article)
     * [Advanced Python Code Challenges: Functions](python_intro/function/article_advanced)
-  - **[Functions](python_intro/control_flow)**
+  - **[Control Flow](python_intro/control_flow)**
     * [Control Flow](python_intro/control_flow/lesson)
     * [Project: Sal's Shipping](python_intro/control_flow/project)
     * [Python Code Challenges: Control Flow](python_intro/control_flow/article)

@@ -45,3 +45,5 @@ You are a physics teacher preparing for the upcoming semester. You want to provi
 12. Test ```get_work``` by using it on ```train_mass```, ````train_acceleration```, and ```train_distance```. Save the result to a variable called ```train_work```.
 
 13. Print the string ```"The GE train does X Joules of work over Y meters."```, with ```X``` replaced with ```train_work``` and ```Y``` replaced with ```train_distance```.
+
+## [Answer](answer.py)

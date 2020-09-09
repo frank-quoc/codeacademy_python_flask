@@ -25,3 +25,5 @@ The function should return ```True``` if ```num``` is divisible by ```10```, and
 Create a function named ```not_sum_to_ten()``` that has two parameters named ```num1 and num2```.
 
 Return ```True``` if ```num1 and num2``` do not sum to ```10```. Return ```False``` otherwise.
+
+## [Answers](answer.py)

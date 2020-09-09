@@ -31,3 +31,5 @@ Let’s put these skills to the test!
 
 3. Finally, for all other cases, the function should return the string:
 <br />```"This applicant should be rejected."```<br />
+
+## [Answer](answer.py)

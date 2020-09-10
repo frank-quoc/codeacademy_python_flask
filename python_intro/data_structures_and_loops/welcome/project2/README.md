@@ -53,3 +53,5 @@ You work at Len’s Slice, a new pizza joint in the neighborhood. You are going 
 
 12. Your boss wants you to do some research on $2 slices.
 <br />Count the number of occurrences of ```2``` in the ```prices``` list, and store the result in a variable called ```num_two_dollar_slices```. Print it out.
+
+## [Projects](answer.py)

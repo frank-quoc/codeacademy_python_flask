@@ -1,3 +1,5 @@
+# CREATING AND MODIFYING A LIST IN PYTHON
+
 1. Maria is entering customer data for her web design business. You’re going to help her organize her data.
 <br />Start by turning this list of customer first names into a list called ```first_names```. Make sure to enter the names in this order:
   * Ainsley
@@ -16,3 +18,5 @@
 5. Create a new variable called ```name_and_age``` that combines ```first_names``` and ```all_ages``` using ```zip```.
 
 6. Create a range object called ```ids``` with an id number for each customer. Since there are 4 customers, so id values should go from ```0 to 3```.
+
+## [Answer](answer.py)

@@ -15,3 +15,5 @@
 6. How many ```'twin bed'```s are in ```inventory```? Save your answer to ```twin_beds```.
 
 7. Sort ```inventory``` using ```.sort()```.
+
+## [Answer](answer.py)

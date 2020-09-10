@@ -18,3 +18,8 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Project: Sal's Shipping](python_intro/control_flow/project)
     * [Python Code Challenges: Control Flow](python_intro/control_flow/article)
     * [Advanced Python Code Challenges: Control Flow](python_intro/control_flow/article_advanced)
+    
+  ### 2. Introduction to Python Data Structures and Loops
+  - **[Welcome to Python Data Structures and Loops](data_structures_and_loops/welcome)**
+    * [Creating and Modifying a List](data_structures_and_loops/welcome/lesson)
+    * [Python Gradebook](data_structures_and_loops/welcome/project)

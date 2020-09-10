@@ -22,4 +22,6 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   ### 2. Introduction to Python Data Structures and Loops
   - **[Welcome to Python Data Structures and Loops](data_structures_and_loops/welcome)**
     * [Creating and Modifying a List](data_structures_and_loops/welcome/lesson)
-    * [Python Gradebook](data_structures_and_loops/welcome/project)
+    * [Project: Python Gradebook](data_structures_and_loops/welcome/project)
+    * [Working with Lists](data_structures_and_loops/welcome/lesson2)
+    * [Project: Len's Slice](data_structures_and_loops/welcome/project2)

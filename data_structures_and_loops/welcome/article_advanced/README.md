@@ -26,3 +26,5 @@ Create a function named ```double_index``` that has two parameters: a list named
 ## 5. Middle Item
 Create a function called ```middle_element``` that has one parameter named ```lst```.
 <br /><br />If there are an odd number of elements in ```lst```, the function should return the middle element. If there are an even number of elements, the function should return the average of the middle two elements.
+
+## [Answers](answer.py)

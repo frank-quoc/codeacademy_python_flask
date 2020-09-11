@@ -20,10 +20,14 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Advanced Python Code Challenges: Control Flow](python_intro/control_flow/article_advanced)
     
   ### 2. Introduction to Python Data Structures and Loops
-  - **[Welcome to Python Data Structures and Loops](data_structures_and_loops/lists)**
-  - **[Creating and Modifying a List](data_structures_and_loops/lists/lesson)
+  - **[Lists](data_structures_and_loops/lists)**
+    * [Creating and Modifying a List](data_structures_and_loops/lists/lesson)
     * [Project: Python Gradebook](data_structures_and_loops/lists/project)
     * [Working with Lists](data_structures_and_loops/lists/lesson2)
     * [Project: Len's Slice](data_structures_and_loops/lists/project2)
     * [Python Code Challenges: Lists](python_intro/lists/article)
-  - **[Welcome to Python Data Structures and Loops](data_structures_and_loops/loops)**
+  - **[Loops](data_structures_and_loops/loops)**
+    * [Loops](data_structures_and_loops/loops/lesson)
+    * [Project: Carly's Clippers](data_structures_and_loops/loops/project)
+    * [Python Code Challenges: Loops](python_intro/loops/challenge)
+    * [Off-Platform Project: Reggie's Linear Regression](python_intro/loops/project2)

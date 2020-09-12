@@ -31,3 +31,8 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Project: Carly's Clippers](data_structures_and_loops/loops/project)
     * [Python Code Challenges: Loops](python_intro/loops/challenge)
     * [Off-Platform Project: Reggie's Linear Regression](python_intro/loops/project2)
+  - **[Dictionaries](data_structures_and_loops/dictionaries)**
+    * [Creating Dictionaries](data_structures_and_loops/dictionaries/lesson)
+    * [Project: Carly's Clippers](data_structures_and_loops/dictionariesproject)
+    * [Using Dictionaries](data_structures_and_loops/dictionaries/lesson2)
+    * [Off-Platform Project: Reggie's Linear Regression](python_intro/dictionaries/project2)

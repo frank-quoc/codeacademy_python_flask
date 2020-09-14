@@ -37,3 +37,8 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Using Dictionaries](data_structures_and_loops/dictionaries/lesson2)
     * [Project: Scrabble](python_intro/dictionaries/project)
     * [Code Challenges: Dictionaries](python_intro/dictionaries/challenge)
+  - **[Classes](data_structures_and_loops/classes)**
+    * [Classes](data_structures_and_loops/classes/lesson)
+    * [Inheritance and Polymorphism](data_structures_and_loops/classes/lesson2)
+    * [Project: Basta Fazoolin'](python_intro/classes/project)
+  - **[Challenge Project: Become A Pokémon Master](challenge_project/pokemon)

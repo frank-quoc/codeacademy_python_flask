@@ -4,7 +4,7 @@
 
 Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpose programming language used by novices, scientific researchers, software engineers, and data scientists. In this path, you will learn the foundations of Python so you can use it to create fully-featured, interactive web applications. Along your journey you will learn how to code in Python, design and access databases, create interactive web applications, and share your apps with the world.
 
-### 1. Introduction to Python
+### [1. Introduction to Python](python_intro)
   - **[Introduction to Build Web Apps with Flask](python_intro/web_app_intro)**
     * [Learn Python: Syntax](python_intro/web_app_intro/lesson)
     * [Project: Create Purchasing Information and Receipts for Lovely Loveseats](python_intro/web_app_intro/project)
@@ -19,7 +19,7 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Python Code Challenges: Control Flow](python_intro/control_flow/article)
     * [Advanced Python Code Challenges: Control Flow](python_intro/control_flow/article_advanced)
     
-  ### 2. Introduction to Python Data Structures and Loops
+  ### [2. Introduction to Python Data Structures and Loops](data_structures_and_loops)
   - **[Lists](data_structures_and_loops/lists)**
     * [Creating and Modifying a List](data_structures_and_loops/lists/lesson)
     * [Project: Python Gradebook](data_structures_and_loops/lists/project)
@@ -42,3 +42,6 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Inheritance and Polymorphism](data_structures_and_loops/classes/lesson2)
     * [Project: Basta Fazoolin'](python_intro/classes/project)
   - **[Challenge Project: Become A Pokémon Master](challenge_project/pokemon)**
+  ### [3. Introduction to Web](web)
+  - **[Web Pages Structure and Style](web)**
+    * [Introduction to HTML](https://github.com/frank-quoc/codeacademy_HTML_CSS_Github/tree/ac9bf850b63190b7fae7d4a5958b8dfa23be83e7/html/elements_and_structure)

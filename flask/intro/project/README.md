@@ -67,7 +67,7 @@ Now run your code and try clicking on the links!
 
 15. Return an HTML ```<h1>``` element containing the pet’s name from the pet() function. You can access the pet’s name from the pet dictionary you created in the previous step.
 
-16. Now, we’re ready to create links on the animal page that links to each individual pet profile page! Inside the animals() function, turn each bulleted list item into a link by adding an <a> element within each <li> element.
+16. Now, we’re ready to create links on the animal page that links to each individual pet profile page! Inside the animals() function, turn each bulleted list item into a link by adding an ```<a>``` element within each ```<li>``` element.
 <br /><br />The URL we want to link to should follow the pattern '/animals/X/#', where X is pet_type and # is the index position. In order to get the latter, we must modify the for loop by using enumerate() to simultaneously loop over indices.
 <br /><br />Once you’re done, run your code and try navigating to an individual pet’s profile page.
 

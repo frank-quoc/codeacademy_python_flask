@@ -71,7 +71,7 @@ Now run your code and try clicking on the links!
 <br /><br />The URL we want to link to should follow the pattern '/animals/X/#', where X is pet_type and # is the index position. In order to get the latter, we must modify the for loop by using enumerate() to simultaneously loop over indices.
 <br /><br />Once you’re done, run your code and try navigating to an individual pet’s profile page.
 
-17. Finally, let’s add some more content to the profile page! Inside the pet() function, right after the <h1> element, add the following elements to display the profile info stored in the pet dictionary:
+17. Finally, let’s add some more content to the profile page! Inside the pet() function, right after the ```<h1>``` element, add the following elements to display the profile info stored in the pet dictionary:
   * ```<img>``` to display the photo at the given URL
   * ```<p>``` that contains the pet’s description
   * ```<ul>``` with two ```<li>``` for the pet’s breed and age

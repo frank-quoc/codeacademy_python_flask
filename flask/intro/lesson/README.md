@@ -12,4 +12,4 @@
 <br />In the function body, replace the hyphens with spaces and turn the text to title-case. Then, before the ```<a>``` element in the returned HTML, add a ```<h2>``` heading containing the formatted title. Check the hint for guidance on how to make these formatting changes.
 <br /><br />Try visiting various article pages such as http://localhost:5000/article/my-first-flask-app!
 
-## [Answer](answer.py)
+## [Answer](app.py)

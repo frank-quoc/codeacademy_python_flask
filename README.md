@@ -46,3 +46,7 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   - **[Web Pages Structure and Style](web)**
     * [Introduction to HTML](https://github.com/frank-quoc/codeacademy_HTML_CSS_Github/tree/ac9bf850b63190b7fae7d4a5958b8dfa23be83e7/html/elements_and_structure)
     * [Introduction to CSS](https://github.com/frank-quoc/codeacademy_HTML_CSS_Github/tree/aa3c0d93f5bc28777168932601560f45734dcb66/css)
+  ### [4. Introduction to Flask](flask)
+  - **[Intro to Flask](flask/intro)**
+    * [Build Your First Flask App](flask/intro/lesson)
+    * [Project: Adopt a Pet](flask/intro/project)

@@ -76,4 +76,4 @@ Now run your code and try clicking on the links!
   * ```<p>``` that contains the pet’s description
   * ```<ul>``` with two ```<li>``` for the pet’s breed and age
   
- ## [project](app.py)
+ ## [Project](app.py)

@@ -51,4 +51,5 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Build Your First Flask App](flask/intro/lesson)
     * [Project: Adopt a Pet](flask/intro/project)
   - **[Jinja2 Templates and Forms](flask/jinja2)**
-    * [Build Your First Flask App](flask/jinja2/lesson)
+    * [Flask Templates](flask/jinja2/lesson)
+    * [Flask Forms](flask/jinja2/lesson2)

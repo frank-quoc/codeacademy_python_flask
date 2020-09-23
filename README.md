@@ -53,3 +53,4 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   - **[Jinja2 Templates and Forms](flask/jinja2)**
     * [Flask Templates](flask/jinja2/lesson)
     * [Flask Forms](flask/jinja2/lesson2)
+    * [Project: Tourist Attractions](flask/jinja2/project)

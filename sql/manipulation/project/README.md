@@ -34,4 +34,4 @@ In this project, you will create your own ```friends``` table and add/delete dat
 9. Great job! Let’s take a look at the result one last time:
 ```SELECT * FROM friends;```
 
-## [Project](answer.py)
+## [Project](project.sqlite)

@@ -40,3 +40,5 @@ We have put together a table of restaurants called nomnom and we need your help 
 <br /><br />Don’t forget to rename the new column!
 
 12. If you are stuck on the project or would like to see an experienced developer work through the project, watch the project walkthrough video in the “**Get Help**“ section!
+
+## [Project](project.sqlite)

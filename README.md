@@ -57,3 +57,6 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
    ### [5. Introduction to SQL and Databases for Back-End Web Apps](sql)
   - **[Manipulation](sql/manipulation)**
     * [Project: Create a Table](sql/manipulation/project)
+  - **[Queries](sql/queries)**
+    * [Project: New York Restaurants](sql/queries/project)
+    * [Challenge Project: World Populations SQL Practice](sql/queries/challenge)

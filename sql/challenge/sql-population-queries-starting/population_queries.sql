@@ -31,7 +31,9 @@ FROM population_years
 WHERE country LIKE '%Islands%';
 
 -- 8: 240.27152 - 214.67661 = 25.59491
-SELECT population
+SELECT year, population
 FROM population_years
 WHERE country = 'Indonesia'
-  AND year BETWEEN 2000 AND 2010;
+  AND year = 2000
+OR country = 'Indonesia'
+  AND year = 2010;

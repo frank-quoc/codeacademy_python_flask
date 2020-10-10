@@ -30,9 +30,9 @@ def add_location():
   ## Validate and collect the form data
   add_form = AddLocationForm()
   if add_form.validate_on_submit():
-      name=name.data
-      description=description.data
-      category=category.data
+      name=add_form.name.data
+      description=add_form.description.data
+      category=add_form.category.data
       visit.add(name, description, category)
 
   ## Redirect to locations route function

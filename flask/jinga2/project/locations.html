@@ -40,7 +40,7 @@
     </tbody>
   </table>
 
-  <form class="addform" action="url_for('add_location')" method="POST"> <!-- set action attribute here -->
+  <form class="addform" action="{{ url_for('add_location') }}" method="POST"> <!-- set action attribute here -->
     <!-- call hidden_tag() here -->
     {{ add_location.hidden_tag() }}
     <table>

@@ -60,3 +60,5 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   - **[Queries](sql/queries)**
     * [Project: New York Restaurants](sql/queries/project)
     * [Challenge Project: World Populations SQL Practice](sql/queries/challenge)
+  - **[Databases in Flask](sql/databases)**
+    * [Project: FlaskFM](sql/databases/project)

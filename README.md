@@ -40,8 +40,8 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
   - **[Classes](data_structures_and_loops/classes)**
     * [Classes](data_structures_and_loops/classes/lesson)
     * [Inheritance and Polymorphism](data_structures_and_loops/classes/lesson2)
-    * [Project: Basta Fazoolin'](python_intro/classes/project)
-  - **[Challenge Project: Become A Pokémon Master](challenge_project/pokemon)**
+    * [Project: Basta Fazoolin'](data_structures_and_loops/classes/project)
+  - **[Challenge Project: Become A Pokémon Master](data_structures_and_loops/challenge_project/pokemon)**
   ### [3. Introduction to Web](web)
   - **[Web Pages Structure and Style](web)**
     * [Introduction to HTML](https://github.com/frank-quoc/codeacademy_HTML_CSS_Github/tree/ac9bf850b63190b7fae7d4a5958b8dfa23be83e7/html/elements_and_structure)

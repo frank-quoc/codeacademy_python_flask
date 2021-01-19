@@ -261,7 +261,7 @@ class Trainer:
         opp_pokemon = opponent.pokemon_lst[opponent.active_pokemon]
 
         if trainer_pokemon.koed == True:
-            print(f"{trainer_pokemon.name} has no hp left and can't attack. Please don't promote Pokemon abuse and swap.\n")
+            print(f"{trainer_pokemon.name} has no hp left and can't attack. Pokemon is passed out; time to swap.\n")
         else:
             print(f"{self.trainer}'s {trainer_pokemon.name} attacked {opponent.trainer}'s {opp_pokemon.name}.")
             trainer_pokemon.attack(opp_pokemon)
@@ -275,11 +275,11 @@ class Trainer:
             if chk_active.koed:
                 print(f"{chk_active.name} is KTFO! Pick another one.\n")
             elif new_active == self.active_pokemon:
-                print(f"Can't swap. They are the same Pokemon, you NOOB! It's {chk_active.name}.\n")
+                print(f"Can't swap. They are the same Pokemon! It's {chk_active.name}.\n")
             else: 
                 print(f"{self.pokemon_lst[self.active_pokemon].name}, return.")
                 self.active_pokemon = new_active
-                print(f"Go {self.pokemon_lst[self.active_pokemon].name}! Get 'em, SON!\n")
+                print(f"Go {self.pokemon_lst[self.active_pokemon].name}! Get 'em!\n")
 
 # Six pokemon are made with different levels. (If no level is given, it is level 5)
 a = Charmander(7)

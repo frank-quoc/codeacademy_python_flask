@@ -41,4 +41,4 @@ We have put together a table of restaurants called nomnom and we need your help 
 
 12. If you are stuck on the project or would like to see an experienced developer work through the project, watch the project walkthrough video in the “**Get Help**“ section!
 
-## [Project](project.sqlite)
+## [Project](query_ny_restaurants.sqlite)

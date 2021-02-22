@@ -62,4 +62,5 @@ Welcome to Build Python Web Apps with Flask! Python is a powerful, general-purpo
     * [Challenge Project: World Populations SQL Practice](sql/queries/challenge)
   - **[Databases in Flask](sql/databases)**
     * [Intro to Flask-SQLAlchemy](sql/databases/flask-sqlalchemy)
+    * [Databases iin Flask - Reading, Updating, and Deleting](sql/databases/reading-updating-deleting)
     * [Project: FlaskFM](sql/databases/project)
